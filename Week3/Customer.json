@@ -1,0 +1,7 @@
+{"Person": [
+               {"Name": "Anuja", "Email id": "Anu@gmail.com", "Address": "Bangalore", "Contact": 8888888882, "Number of Share": 45, "Total Balance": 25000},
+               {"Name": "Sarika", "Email id": "Sarika91@gmail.com", "Address": "Pune", "Contact": 9875645466, "Number of Share": 5, "Total Balance": 16250},
+               {"Name": "Kiran", "Email id": "kiranD@gmail.com", "Address": "Mysore", "Contact": 9876543210, "Number of Share": 11, "Total Balance": 9800},
+               {"Name": "Nishigandha", "Email id": "Nish@gmail.com", "Address": "Mumbai", "Contact": 124597532, "Number of Share": 17, "Total Balance": 9500},
+               {"Name": "Devesh", "Email id": "Devesh@gmail.com", "Address": "Delhi", "Contact": 9545771944, "Number of Share": 5, "Total Balance": 15000}
+]}
